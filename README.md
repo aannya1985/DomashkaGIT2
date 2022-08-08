@@ -7,4 +7,4 @@ NeuroStartUp — динамически развивающийся старта�
 1. Высокая скорость поиска
 1. Низкая цена
 
-![Логотип](C:\Users\user\Documents\Git\NeuroStartUp\logo.png)
+![Логотип](https://raw.githubusercontent.com/netology-ds-team/git-homeworks/main/1_self/logo.png)
